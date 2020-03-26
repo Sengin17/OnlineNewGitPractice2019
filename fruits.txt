@@ -10,5 +10,4 @@ cilek
 elma
 kiraz
 kavun
-
 karpuz
