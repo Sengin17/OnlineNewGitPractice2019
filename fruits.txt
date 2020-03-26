@@ -8,6 +8,6 @@ watermelon
 lemon
 cilek
 elma
+karpuz
 kiraz
 kavun
-karpuz
