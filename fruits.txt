@@ -8,3 +8,5 @@ watermelon
 lemon
 cilek
 elma
+kiraz
+kavun
