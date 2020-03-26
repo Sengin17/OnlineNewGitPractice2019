@@ -6,3 +6,4 @@ banana
 erik
 watermelon
 lemon
+cilek
