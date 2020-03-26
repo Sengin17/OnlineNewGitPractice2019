@@ -1,3 +1,5 @@
 orange
 mango
 apple
+dragon fruit
+banana
