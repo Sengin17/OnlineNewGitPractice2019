@@ -8,3 +8,6 @@ watermelon
 lemon
 cilek
 elma
+sfd
+fs
+
