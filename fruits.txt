@@ -1,13 +1,6 @@
 orange
 mango
-apple
 dragon fruit
-banana
-erik
-watermelon
-lemon
-cilek
-elma
-sfd
-fs
-
+kiwi
+apple
+pear
